@@ -20,3 +20,10 @@ _**Esto es un texto en itálica y negrita**_
 7. Objeto 7
 8. Objeto 8
 9. Objeto 9
+
+### Ejemplo de tabla
+
+| Ejercicio | Link ejercicio |
+| ------------- | ------------- |
+| Ejercicio 1  | Link hacia el primer ejercicio  |
+| Ejercicio 2  | Link hacia el segundo ejercicio  |
